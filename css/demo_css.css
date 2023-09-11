@@ -94,7 +94,7 @@ nav a:visited {
     display: grid;
     padding-bottom: 20px;
     grid-template-columns: 1fr 1fr 1fr;
-    margin-left: 75px;
+    margin-left: 100px;
 }
 
 .card{
@@ -176,7 +176,7 @@ textarea{
     justify-self: center;
     display: grid;
     grid-template-columns: 1fr;
-    margin-left: 215px;
+    margin-left: 250px;
     padding-bottom: 10px;
 }
 
